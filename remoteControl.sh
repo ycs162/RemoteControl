@@ -13,7 +13,7 @@
 # Tools update and installation that will be perfomed on local machine: 
 # 1. Update package list of repositories
 # 2. Nipe   
-# 4. sshpass
+# 3. sshpass
 
 # Tools update and installation that will be perfomed on remote server:
 # 1. Update package list of repositories
